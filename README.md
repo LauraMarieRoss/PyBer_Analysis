@@ -23,13 +23,13 @@ The following scatterplot shows how average fares relate to ride counts per city
 
 #### Understanding Variance by City Size
 
-The total number of rides in each city increases as city population size increases (as seen in the box and whiskers plot below), with the greatest variance in ride counts seen in the urban city category.
+The total number of rides in each city increases as city population size increases (as seen in the box and whiskers plot below), with the greatest range (or Inner Quartile Range (IQR)) in ride counts seen in the urban city category.
 ![Fig2](https://user-images.githubusercontent.com/105830645/176815499-0cc32869-6e83-4fa9-bcb1-42655b40161a.png)
 
-When viewed as a whole, average fare costs by city type differ by a fairly small margin, but this gives an incomplete understanding of the data. The boxes below show how wide the range of average fares are for each city type. Rural cities have the largest variance in average fare costs, and this can be seen clearly using this type of diagram. Notice the least amount of fare variance is seen in suburban cities.
+When viewed as a whole, average fare costs by city type differ by a fairly small margin, but this gives an incomplete understanding of the data. The boxes below show how wide the range of average fares are for each city type. Rural cities have the largest IQR in average fare costs, and this can be seen clearly using this type of diagram. Notice the least amount of fare range is seen in suburban cities.
 ![Fig3](https://user-images.githubusercontent.com/105830645/176815740-53fe2b0c-ae3d-4e93-821a-2ea066df5820.png)
 
-Driver counts also correlate to city size, with larger cities having more drivers to provide ride services. Notice in the box and whiskers plot below the largest variance in the number of drivers per city are in urban cities, while in rural cities there is very little variance, with an average of approximately 4 drivers per rural city.
+Driver counts also correlate to city size, with larger cities having more drivers to provide ride services. Notice in the box and whiskers plot below the largest range in the number of drivers per city are in urban cities, while in rural cities there is very little variation, with an average of approximately 4 drivers per rural city.
 ![Fig4](https://user-images.githubusercontent.com/105830645/176816155-93cad828-58cd-4c14-84be-a64f027e6158.png)
 
 #### Percentages by City Type
